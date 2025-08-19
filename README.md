@@ -15,7 +15,6 @@ Gosto de explorar novas ferramentas, entender como as coisas funcionam por trás
 - Python, Java
 - Git & GitHub  
 - Em breve: HTML, CSS, JavaScript, Banco de Dados (MySQL), Banco de Dados (MySQL)  
-- Frameworks em breve...
 
 ## 📈 Projetos em destaque
 
